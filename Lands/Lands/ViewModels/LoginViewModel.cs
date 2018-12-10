@@ -46,6 +46,8 @@
         {
             this.IsRemembered = true;
             this.isEnable = true;
+
+            // http://restcountries.eu/rest/v2/all
         }
         #endregion
 
